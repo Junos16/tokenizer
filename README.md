@@ -1,2 +1,2 @@
 # tokenizer
-Library implementing tokenizatio algorithms
+Library implementing tokenization algorithms
